@@ -18,7 +18,9 @@ struct ContentView: View {
         Email(subject: "Welcome to Gmail", sender: "Google", snippet: "Welcome to Gmail, the best email service."),
         Email(subject: "Swift Weekly", sender: "Swift Newsletter", snippet: "Check out the latest Swift news and tutorials."),
         Email(subject: "Your order has shipped", sender: "Amazon", snippet: "Your order is on its way."),
-        Email(subject: "Invitation: META Hiring @ Mon 9am", sender: "Calendar", snippet: "You have been invited to META Hiring.")
+        Email(subject: "Invitation: META Hiring @ Mon 9am", sender: "Calendar", snippet: "You have been invited to META Hiring."),
+        Email(subject: "Alcohol", sender: "Chase A", snippet: "Yo, wanna grab a drink sometime?"),
+        Email(subject: "You are broken", sender: "Lasya K", snippet: "Fix yourself.")
     ]
 
     var body: some View {
