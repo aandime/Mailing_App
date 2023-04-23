@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE1272EB29F4FF5F00D50E8B /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1272EA29F4FF5F00D50E8B /* Video.swift */; };
 		FE231B5F29EF421400CD5FBC /* GmailApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE231B5E29EF421400CD5FBC /* GmailApp.swift */; };
 		FE231B6129EF421400CD5FBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE231B6029EF421400CD5FBC /* ContentView.swift */; };
 		FE231B6329EF421600CD5FBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE231B6229EF421600CD5FBC /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE1272EA29F4FF5F00D50E8B /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		FE231B5B29EF421400CD5FBC /* Gmail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gmail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE231B5E29EF421400CD5FBC /* GmailApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GmailApp.swift; sourceTree = "<group>"; };
 		FE231B6029EF421400CD5FBC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				FE231B6429EF421600CD5FBC /* Preview Content */,
 				FE231B6C29EF45F000CD5FBC /* Mail.swift */,
 				FE231B6E29EF476800CD5FBC /* Network.swift */,
+				FE1272EA29F4FF5F00D50E8B /* Video.swift */,
 			);
 			path = Gmail;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				FE231B6129EF421400CD5FBC /* ContentView.swift in Sources */,
 				FE231B6F29EF476800CD5FBC /* Network.swift in Sources */,
 				FE231B5F29EF421400CD5FBC /* GmailApp.swift in Sources */,
+				FE1272EB29F4FF5F00D50E8B /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
